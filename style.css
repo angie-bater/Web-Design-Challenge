@@ -29,7 +29,7 @@ left:500px;}
 
 @media (max-width:700px){
     .navbar-brand{width:700px;
-    background:teal;
+    background:orange;
     margin-bottom:-90px;
     margin-right:-20px;
     margin-top:-50px;
@@ -56,13 +56,13 @@ left:500px;}
   }
 }
 #firstPar{
-    background-color: lightseagreen;
+    background-color: lightsalmon;
     padding-right:-300px;
     margin-top:10px;    
 }
 
 .visual{
-    background-color:lightblue;
+    background-color:lightgray;
     padding-bottom:30px;
     padding-right: 30px;
     padding-left:30px;
